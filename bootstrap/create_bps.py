@@ -5,10 +5,27 @@ import json
 BIN_DIR='/usr/local/bin/'
 
 BP_NAMES = [
-    'Thanos',
-    'CaptainAmerica',
-    'IronMan',
-    'Thor',
+    'stanlee',
+    'ironman',
+    'captamerica',
+    'thor',
+    'drstrange',
+    'spiderman',
+    'antman',
+    'blackwidow',
+    'hulk',
+    'hawkeye',
+    'quicksilver',
+    'vision',
+    'warmachine',
+    'falcon',
+    'blackpanther',
+    'starlord',
+    'captmarvel',
+    'loki',
+    'thanos',
+    'gamora',
+    'groot',
 ]
 
 
@@ -28,9 +45,9 @@ def gen_bp_keys():
 
 
 def gen_setprods(bp_keys):
-    output = {"version": "123456", "producers": []}
+    output = {"version": "123456", "schedule": []}
     for name, priv_key, pub_key in bp_keys:
-        output["producers"].append({"producer_name": name, "block_signing_key": pub_key})
+        output["schedule"].append({"producer_name": name, "block_signing_key": pub_key})
     return output
 
 
