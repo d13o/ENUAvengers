@@ -72,3 +72,7 @@ tail -f stderr.txt
 ### Produce the blocks
 If enunode works well, please contact the administrator to grant your the privilege of producing blocks.
 
+
+## Monitor Website
+http://avengers-monitor.enuism.com
+
