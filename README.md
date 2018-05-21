@@ -5,9 +5,9 @@ ENUAvengers is an Enumivo Testnet.
 | Hero        | Producer Name           | Status  |
 | ------------- |:-------------:| -----:|
 |Stan Lee|stanlee|Claimed|
-|Iron Man|ironman|Available|
-|Captain America|captamerica|Available|
-|Thor|thor|Available|
+|Iron Man|ironman|Claimed|
+|Captain America|captamerica|Claimed|
+|Thor|thor|Claimed|
 |Doctor Strange|drstrange|Available|
 |Spider Man|spiderman|Available|
 |Ant Man|antman|Available|
@@ -15,13 +15,13 @@ ENUAvengers is an Enumivo Testnet.
 |Hulk|hulk|Claimed|
 |Hawk Eye|hawkeye|Available|
 |Quick Silver|quicksilver|Available|
-|Vision|vision|Available|
+|Vision|vision|Claimed|
 |War Machine|warmachine|Available|
 |Falcon|falcon|Available|
 |Black Panther|blackpanther|Available|
 |Star Lord|starlord|Available|
 |Captain Marvel|captmarvel|Available|
-|Loki|loki|Available|
+|Loki|loki|Claimed|
 |Thanos|thanos|Available|
 |Gamora|gamora|Available|
 |Groot|groot|Available|
