@@ -8,12 +8,12 @@ ENUAvengers is an Enumivo Testnet.
 |Iron Man|ironman|Claimed|
 |Captain America|captamerica|Claimed|
 |Thor|thor|Claimed|
-|Doctor Strange|drstrange|Available|
+|Doctor Strange|drstrange|Claimed|
 |Spider Man|spiderman|Claimed|
 |Ant Man|antman|Claimed|
 |Black Widow|blackwidow|Available|
 |Hulk|hulk|Claimed|
-|Hawk Eye|hawkeye|Available|
+|Hawk Eye|hawkeye|Claimed|
 |Quick Silver|quicksilver|Available|
 |Vision|vision|Claimed|
 |War Machine|warmachine|Claimed|
@@ -22,7 +22,7 @@ ENUAvengers is an Enumivo Testnet.
 |Star Lord|starlord|Claimed|
 |Captain Marvel|captmarvel|Claimed|
 |Loki|loki|Claimed|
-|Thanos|thanos|Available|
+|Thanos|thanos|Claimed|
 |Gamora|gamora|Available|
 |Groot|groot|Claimed|
 
