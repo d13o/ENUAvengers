@@ -18,7 +18,7 @@ ENUAvengers is an Enumivo Testnet.
 |Vision|vision|Claimed|
 |War Machine|warmachine|Claimed|
 |Falcon|falcon|Available|
-|Black Panther|blackpanther|Available|
+|Black Panther|blackpanther|Claimed|
 |Star Lord|starlord|Claimed|
 |Captain Marvel|captmarvel|Claimed|
 |Loki|loki|Claimed|
