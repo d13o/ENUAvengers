@@ -10,7 +10,7 @@ ENUAvengers is an Enumivo Testnet.
 |Thor|thor|Claimed|
 |Doctor Strange|drstrange|Available|
 |Spider Man|spiderman|Claimed|
-|Ant Man|antman|Available|
+|Ant Man|antman|Claimed|
 |Black Widow|blackwidow|Available|
 |Hulk|hulk|Claimed|
 |Hawk Eye|hawkeye|Available|
@@ -19,12 +19,12 @@ ENUAvengers is an Enumivo Testnet.
 |War Machine|warmachine|Claimed|
 |Falcon|falcon|Available|
 |Black Panther|blackpanther|Available|
-|Star Lord|starlord|Available|
+|Star Lord|starlord|Claimed|
 |Captain Marvel|captmarvel|Claimed|
 |Loki|loki|Claimed|
 |Thanos|thanos|Available|
 |Gamora|gamora|Available|
-|Groot|groot|Available|
+|Groot|groot|Claimed|
 
 ## Node Setup Guidance
 ### Build & install node components
